@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm a BSIT student. I hope to learn a lot about the world of coding :) 
 
 <!--
 **nami-swanz/nami-swanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
